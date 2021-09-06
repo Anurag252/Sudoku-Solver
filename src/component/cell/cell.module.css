@@ -1,0 +1,17 @@
+.cell {
+    height: 43px;
+    width: 43px;
+    cursor: default;
+    color: rgb(81, 71, 19);
+    border-radius: 5px;
+    box-shadow: rgb(255 255 255 / 50%) 0px 1px 0px inset;
+    background-color: rgb(162, 143, 39);
+    border-color: rgb(121, 107, 29);
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: rgb(171 154 60) 1px 1px 0px;
+    user-select: none;
+    transition-duration: 0.8s;
+    position: relative;
+}
