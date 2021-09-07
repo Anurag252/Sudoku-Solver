@@ -1,10 +1,10 @@
 import React from 'react'
 import styles from './cell.module.css'
 
-export const  Cell = () => {
+export const  Cell = (prop) => {
     return (
         <div className={styles.cell}>
-            34
+            {prop.value == 'NA' ? null : prop.value}
         </div>
     )
 
