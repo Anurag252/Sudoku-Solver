@@ -1,3 +1,7 @@
+#Sudoku Solver
+A simple sudoku solver build in react. Live app https://ecstatic-kare-b408dd.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
